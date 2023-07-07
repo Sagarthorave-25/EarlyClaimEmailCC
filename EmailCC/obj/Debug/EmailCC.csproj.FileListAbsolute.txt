@@ -1,0 +1,18 @@
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\bin\EmailCC.dll.config
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\bin\EmailCC.dll
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\bin\EmailCC.pdb
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\obj\Debug\EmailCC.csproj.CoreCompileInputs.cache
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\obj\Debug\EmailCC.dll
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\obj\Debug\EmailCC.pdb
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\obj\Debug\EmailCC.csproj.CopyComplete
+C:\Work\CR-2078-Eary Claim Comm\EmailCC\EmailCC\obj\Debug\EmailCC.csprojAssemblyReference.cache
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\bin\EmailCC.dll.config
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\bin\EmailCC.dll
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\bin\EmailCC.pdb
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\obj\Debug\EmailCC.csproj.AssemblyReference.cache
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\obj\Debug\EmailCC.csproj.CoreCompileInputs.cache
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\obj\Debug\EmailCC.csproj.CopyComplete
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\obj\Debug\EmailCC.dll
+C:\Users\Mfl00886\Downloads\Projects\Cr-2078 Early Cliam Automation Project\EmailCC\EmailCC\obj\Debug\EmailCC.pdb
